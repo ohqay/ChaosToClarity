@@ -1,4 +1,4 @@
-## Chaos to Clarity
+## Chaos to Clarity Obsidian Theme
 
 Welcome! This is a showcase of my iA Writer-inspired Obsidian theme, using the community theme "Minimal", select fonts, and a handful of plugins tailored to improve focus and create a calming aesthetic.
 
