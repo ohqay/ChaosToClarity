@@ -1,8 +1,8 @@
 ## Chaos to Clarity
 
-Welcome! This is a showcase of my iA Writer-inspired Obsidian, using the Minimal Theme, select fonts, and a handful of plugins tailored to improve focus and create a calming aesthetic.
+Welcome! This is a showcase of my iA Writer-inspired Obsidian theme, using the community theme "Minimal", select fonts, and a handful of plugins tailored to improve focus and create a calming aesthetic.
 
-Clone the vault, And open the folder as a vault in Obsidian. Play around with it, and feel free to move your existing vault inside of it to make it your own!
+Clone the vault, and open the folder as a vault in Obsidian. Play around with it, and feel free to move your existing vault inside of it to make it your own!
 
 ## Light Mode
 
